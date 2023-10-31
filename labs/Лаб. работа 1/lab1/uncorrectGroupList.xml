@@ -1,0 +1,19 @@
+<group>
+    <student firstname="John" lastname="Smith" groupnumber="A123">
+        <subject title="Math" mark="4" />
+        <subject title="Physics" mark="3" />
+        <average>3.5</average>
+    </student>
+    <student firstname="William" lastname="Butcher" groupnumber="B456">
+        <subject title="Chemistry" mark="4" />
+        <subject title="Math" mark="3" />
+        <subject title="English" mark="5" />
+        <average>4.5</average>
+    </student>
+    <student firstname="Robert" lastname="Singer" groupnumber="B456">
+        <subject title="Social science" mark="5" />
+        <subject title="Math" mark="4" />
+        <subject title="English" mark="4" />
+        <average>5.0</average>
+    </student>
+</group>
