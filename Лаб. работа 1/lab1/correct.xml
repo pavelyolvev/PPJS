@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><group>
+    <student firstname="John" groupnumber="A123" lastname="Smith">
+        <subject mark="4" title="Math"/>
+        <subject mark="3" title="Physics"/>
+        <average>3.5</average>
+    </student>
+    <student firstname="William" groupnumber="B456" lastname="Butcher">
+        <subject mark="4" title="Chemistry"/>
+        <subject mark="3" title="Math"/>
+        <subject mark="5" title="English"/>
+        <average>4</average>
+    </student>
+    <student firstname="Robert" groupnumber="B456" lastname="Singer">
+        <subject mark="5" title="Social science"/>
+        <subject mark="4" title="Math"/>
+        <subject mark="4" title="English"/>
+        <average>4.3</average>
+    </student>
+</group>
